@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manuelibidun
+- 👋 Hi, I’m Emmanuel Ibidun
 - 👀 I’m interested in scaling, solutioning and productionizing analytics and data science pipelines and products
 - 🌱 I’m currently learning Apache Airflow, CI/CD, MLOps, etc.
 - 💞️ I’m looking to collaborate on any of the above topics
