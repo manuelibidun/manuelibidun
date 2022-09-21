@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Ibidun
-- 👀 I’m interested in scaling, solutioning and productionizing analytics and data science pipelines and products
-- 🌱 I’m currently learning Apache Airflow, CI/CD, MLOps, etc.
+- 👀 I’m a software developer in machine learning with interests in design, and scaling analytics/datascience products
+- 🌱 I’m currently learning Argo, CI/CD, MLOps, Kubernetes, etc.
 - 💞️ I’m looking to collaborate on any of the above topics
 - 📫 Wanna reach out? Tweet at me @muyiibidun
 
